@@ -1,31 +1,148 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "titulo": "ENPRODUCCION TAREA 1Desarrollo de la funcionalidad de autenticación",
-      "descripcion": "Implementar la funcionalidad de autenticación utilizando tecnologías modernas de seguridad",
+      "id": 1,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 20,
-      "imagen": "https://images.yourstory.com/cs/1/b3cc3444ab5e11e88691f70342131e20/Whatissoftwareandtypesofsoftwarewithexamples1575272423828jpg",
-      "responsable": "John Doe",
-      "estado": "PORTESTEAR"
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 1",
+      "estado": "PORHACER"
+    },
+    {
+      "id": 2,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "tiempo": 10,
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 2",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 3,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "tiempo": 10,
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 3",
+      "estado": "COMPLETADA"
     },
     {
       "id": 4,
-      "titulo": "COMPLETADA TAREA 1Desarrollo de la funcionalidad de autenticación",
-      "descripcion": "Implementar la funcionalidad de autenticación utilizando tecnologías modernas de seguridad",
-      "tiempo": 20,
-      "imagen": "https://images.yourstory.com/cs/1/b3cc3444ab5e11e88691f70342131e20/Whatissoftwareandtypesofsoftwarewithexamples1575272423828jpg",
-      "responsable": "John Doe",
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "tiempo": 3,
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 4",
       "estado": "PORTESTEAR"
     },
     {
-      "titulo": "Desarrollo de la funcionalidad de autenticación",
-      "descripcion": "Styling React Components with Styled-Components: A Powerful Approach for Global and Component-Level StylesStyling React Components with Styled-Components: A Powerful Approach for Global and Component-Level StylesStyling React Components with Styled-Components: A Powerful Approach for Global and Component-Level StylesStyling React Components with Styled-Components: A Powerful Approach for Global and Component-Level Styles",
+      "id": 5,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "tiempo": 20,
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 1",
+      "estado": "PORHACER"
+    },
+    {
+      "id": 6,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "tiempo": 10,
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 2",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 7,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "tiempo": 10,
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 3",
+      "estado": "COMPLETADA"
+    },
+    {
+      "id": 8,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 3,
-      "imagen": "https://placehold.co/600x400",
-      "responsable": "vale",
-      "estado": "PORHACER",
-      "id": 5
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 4",
+      "estado": "PORTESTEAR"
+    },
+    {
+      "id": 9,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "tiempo": 20,
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 1",
+      "estado": "PORHACER"
+    },
+    {
+      "id": 10,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "tiempo": 10,
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 2",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 11,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "tiempo": 10,
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 3",
+      "estado": "COMPLETADA"
+    },
+    {
+      "id": 12,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "tiempo": 3,
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 4",
+      "estado": "PORTESTEAR"
+    },
+    {
+      "id": 13,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "tiempo": 20,
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 1",
+      "estado": "PORHACER"
+    },
+    {
+      "id": 14,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "tiempo": 10,
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 2",
+      "estado": "ENPRODUCCION"
+    },
+    {
+      "id": 15,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "tiempo": 10,
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 3",
+      "estado": "COMPLETADA"
+    },
+    {
+      "id": 16,
+      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "tiempo": 3,
+      "imagen": "https://placehold.co/1200x800",
+      "responsable": "Responsable 4",
+      "estado": "PORTESTEAR"
     }
   ]
 }
