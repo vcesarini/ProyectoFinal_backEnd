@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "titulo": "ENPRODUCCION TAREA 1Desarrollo de la funcionalidad de autenticación",
+      "descripcion": "Implementar la funcionalidad de autenticación utilizando tecnologías modernas de seguridad",
+      "tiempo": 20,
+      "imagen": "https://images.yourstory.com/cs/1/b3cc3444ab5e11e88691f70342131e20/Whatissoftwareandtypesofsoftwarewithexamples1575272423828jpg",
+      "responsable": "John Doe",
+      "estado": "PORTESTEAR"
+    },
+    {
+      "id": 4,
+      "titulo": "COMPLETADA TAREA 1Desarrollo de la funcionalidad de autenticación",
+      "descripcion": "Implementar la funcionalidad de autenticación utilizando tecnologías modernas de seguridad",
+      "tiempo": 20,
+      "imagen": "https://images.yourstory.com/cs/1/b3cc3444ab5e11e88691f70342131e20/Whatissoftwareandtypesofsoftwarewithexamples1575272423828jpg",
+      "responsable": "John Doe",
+      "estado": "PORTESTEAR"
+    },
+    {
+      "titulo": "Desarrollo de la funcionalidad de autenticación",
+      "descripcion": "Styling React Components with Styled-Components: A Powerful Approach for Global and Component-Level StylesStyling React Components with Styled-Components: A Powerful Approach for Global and Component-Level StylesStyling React Components with Styled-Components: A Powerful Approach for Global and Component-Level StylesStyling React Components with Styled-Components: A Powerful Approach for Global and Component-Level Styles",
+      "tiempo": 3,
+      "imagen": "https://placehold.co/600x400",
+      "responsable": "vale",
+      "estado": "PORHACER",
+      "id": 5
+    }
+  ]
+}
