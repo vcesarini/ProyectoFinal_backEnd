@@ -5,16 +5,16 @@
       "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 20,
-      "imagen": "https://placehold.co/1200x800",
+      "imagen": "https://img.freepik.com/foto-gratis/mujer-nerviosa-cansada-camisa-casual-rayas-que-cansada-explicar-tarea-hogar-agotada-cubriendo-ojos-palma-nino-mirando-madre-educacion-linea_176532-15176.jpg?w=996&t=st=1700693644~exp=1700694244~hmac=1069d7c758c27cd05163f5ec1c556a667f8a2605f6f17008d4c18141b455f2d1",
       "responsable": "Responsable 1",
-      "estado": "PORHACER"
+      "estado": "COMPLETADA"
     },
     {
       "id": 2,
       "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 10,
-      "imagen": "https://placehold.co/1200x800",
+      "imagen": "https://img.freepik.com/foto-gratis/jovenes-estudiantes-sentados-parque-trabajando-juntos-tarea-universitaria-sus-computadoras-portatiles_181624-41004.jpg?w=996&t=st=1700693652~exp=1700694252~hmac=3f868dbd08ef6f5c05a75d800e30c9c059e0bee7648e9ef41969fec7fc100a0a",
       "responsable": "Responsable 2",
       "estado": "ENPRODUCCION"
     },
@@ -23,7 +23,7 @@
       "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 10,
-      "imagen": "https://placehold.co/1200x800",
+      "imagen": "https://img.freepik.com/foto-gratis/retrato-mujer-adulta-joven-sonriente-sentada-silla-sosteniendo-telefono-inteligente-pidiendo-asistente-voz-telefono-celular-dando-tareas-grabando-mensajes-expresando-emociones-positivas_176532-15046.jpg?w=996&t=st=1700693646~exp=1700694246~hmac=6957375332dc63f41a66ec3abf9a34d2e9f56b2080a5aa4f9ee30debf048b1d3",
       "responsable": "Responsable 3",
       "estado": "COMPLETADA"
     },
@@ -32,7 +32,7 @@
       "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 3,
-      "imagen": "https://placehold.co/1200x800",
+      "imagen": "https://img.freepik.com/foto-gratis/empresario-caucasico-empresario-gerente-que-trabaja-oficina-cerca-tomando-notas-escribiendo-informe-o-haciendo-tarea-concepto-trabajo-finanzas-negocios-exito-liderazgo-fecha-limite-date-prisa_155003-39336.jpg?w=996&t=st=1700693655~exp=1700694255~hmac=d6e830c41c56a8e37aeb96e29560cd464550718fdf8a93155bd94bb54656753e",
       "responsable": "Responsable 4",
       "estado": "PORTESTEAR"
     },
@@ -41,7 +41,7 @@
       "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 20,
-      "imagen": "https://placehold.co/1200x800",
+      "imagen": "https://img.freepik.com/foto-gratis/colegas-profesionales-enojados-e-indignados-gritan-voz-alta-estando-molestos-pose-tarea-dificil-escritorio-rodeados-planos-papeles-bocetos-colaboran-proyecto-construccion-comun_273609-50268.jpg?w=996&t=st=1700693660~exp=1700694260~hmac=07959c7e38fc379a79d59729a4d348a4e397dfe526f7304f4ff6cae41157b369",
       "responsable": "Responsable 1",
       "estado": "PORHACER"
     },
@@ -50,43 +50,25 @@
       "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 10,
-      "imagen": "https://placehold.co/1200x800",
+      "imagen": "https://img.freepik.com/foto-gratis/redactora-rubia-concentrada-trabajando-tareas-creativas_496169-2420.jpg?w=996&t=st=1700693742~exp=1700694342~hmac=bd11487ddc24ea3de44f3a9f9165c758c8f92186e75a3546dca6f85861d93238",
       "responsable": "Responsable 2",
       "estado": "ENPRODUCCION"
-    },
-    {
-      "id": 7,
-      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
-      "tiempo": 10,
-      "imagen": "https://placehold.co/1200x800",
-      "responsable": "Responsable 3",
-      "estado": "COMPLETADA"
     },
     {
       "id": 8,
       "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 3,
-      "imagen": "https://placehold.co/1200x800",
+      "imagen": "https://img.freepik.com/foto-gratis/hombre-mayor-creativo-serio-posa-escritorio-oficina-piensa-ideas-creativas-diseno-sitio-web-desarrollo-reflexiona-sobre-algo-rodeado-carpetas-prepara-proyecto-viste-ropa-formal_273609-53559.jpg?w=360&t=st=1700693741~exp=1700694341~hmac=c45ba0d329cf5f086c864bb72b612795228a2c933569412199caf6d7551d9ba3",
       "responsable": "Responsable 4",
       "estado": "PORTESTEAR"
-    },
-    {
-      "id": 9,
-      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
-      "tiempo": 20,
-      "imagen": "https://placehold.co/1200x800",
-      "responsable": "Responsable 1",
-      "estado": "PORHACER"
     },
     {
       "id": 10,
       "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 10,
-      "imagen": "https://placehold.co/1200x800",
+      "imagen": "https://img.freepik.com/foto-gratis/diversos-hombres-mujeres-satisfechos-divierten-oficina-mientras-preparan-proyecto-creativo-colaboran-tarea-comun-espacio-moderno-hacen-papeleo-crean-bocetos-planos-dos-arquitectos-cerca-escritorio_273609-50650.jpg?w=996&t=st=1700693792~exp=1700694392~hmac=1732c15e5f2f8b6a7421ec90cb86d0391c773a85f3d61b5471fbe51a0b4059d2",
       "responsable": "Responsable 2",
       "estado": "ENPRODUCCION"
     },
@@ -95,34 +77,34 @@
       "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 10,
-      "imagen": "https://placehold.co/1200x800",
+      "imagen": "https://img.freepik.com/foto-gratis/disparo-horizontal-oficinista-femenina-calificada-profesional-seria-posa-trabajos-escritorio-tareas-creativas-viste-ropa-casual_273609-50134.jpg?w=996&t=st=1700693794~exp=1700694394~hmac=1e8466f57c59048275924ff3c455e188365e955f63b3c732431a3b2b1c50c52e",
       "responsable": "Responsable 3",
-      "estado": "COMPLETADA"
+      "estado": "PORHACER"
     },
     {
       "id": 12,
       "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 3,
-      "imagen": "https://placehold.co/1200x800",
+      "imagen": "https://img.freepik.com/foto-gratis/alegre-chico-europeo-guapo-ve-feliz-traves-espectaculos-vestidos-camisa-gris-sonrie-despreocupada-poses-interior-empleado-sexo-masculino-feliz-listo-proxima-tarea-concepto-emociones-positivas_273609-50044.jpg?w=996&t=st=1700693797~exp=1700694397~hmac=33bfeb85991e7641892554ce88bd40db140d8bd7ed6ba6112880b722a4a8195e",
       "responsable": "Responsable 4",
       "estado": "PORTESTEAR"
     },
     {
       "id": 13,
       "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
+      "descripcion": "et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 20,
-      "imagen": "https://placehold.co/1200x800",
+      "imagen": "https://img.freepik.com/foto-gratis/oficinista-confuso-vacilante-no-sabe-como-hacer-informe-tiene-fecha-limite-lleva-notas-adhesivas-que-recuerdan-que-hacer-informacion-escrita-aprendizaje-parece-despistada-quien-importa_273609-46327.jpg?t=st=1700693800~exp=1700694400~hmac=a67efadcdc8c32a3a47c271ca37e0a5b9e381ff6d24a7e3cfbfc14d50bab4304",
       "responsable": "Responsable 1",
-      "estado": "PORHACER"
+      "estado": "PORTESTEAR"
     },
     {
       "id": 14,
       "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 10,
-      "imagen": "https://placehold.co/1200x800",
+      "imagen": "https://img.freepik.com/foto-gratis/profesor-escuela-feliz-viendo-colegial-gafas-haciendo-tareas-clase_74855-16402.jpg?w=996&t=st=1700693802~exp=1700694402~hmac=ace520fb748a5af8a1130007155e55cbc22a395506fb58f07296577b2d249bed",
       "responsable": "Responsable 2",
       "estado": "ENPRODUCCION"
     },
@@ -131,18 +113,36 @@
       "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
       "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
       "tiempo": 10,
-      "imagen": "https://placehold.co/1200x800",
+      "imagen": "https://img.freepik.com/foto-gratis/grave-joven-maestra-ayudando-nina-escuela-primaria-hacer-su-tarea_74855-16461.jpg?w=996&t=st=1700693802~exp=1700694402~hmac=94ce941d2513dc60064ea615d7ea0956ada630e0839554204bbeb8a4823e2ced",
       "responsable": "Responsable 3",
       "estado": "COMPLETADA"
     },
     {
-      "id": 16,
-      "titulo": "Lorem Ipsum Generador, Generar texto de marcador de posición de Lorem Ipsum",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum pulvinar etiam non quam lacus. Consectetur adipiscing elit duis tristique sollicitudin nibh sit. Id diam vel quam elementum pulvinar etiam. Egestas congue quisque egestas diam in arcu. Nunc sed augue lacus viverra vitae congue eu consequat ac. Sed vulputate mi sit amet mauris. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae.",
-      "tiempo": 3,
-      "imagen": "https://placehold.co/1200x800",
+      "titulo": "Gravida sapien massa, quis imperdiet risus elementum et.",
+      "descripcion": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "tiempo": 4,
+      "imagen": "https://img.freepik.com/foto-gratis/persona-que-escribe-notas-adhesivas-recordar-tarea-computadora-mujer-negocios-que-usa-papel-post-it-como-recordatorio-trabajar-planificacion-proyectos-eficiencia-e-inspiracion-empresa_482257-30592.jpg?w=1060&t=st=1700691808~exp=1700692408~hmac=18534c7f3c1bfc80447c9295cac72ee7ad9cb4337a75b739a6b2082517dc62a1",
+      "responsable": "Responsable 1",
+      "estado": "PORHACER",
+      "id": 16
+    },
+    {
+      "titulo": "Estudiante con estilo en gafas",
+      "descripcion": "Estudiante con estilo en gafas de moda leyendo tarea escalofriante junto a la fuente de la ciudad después de las lecciones. retrato al aire libre de la romántica chica rizada con tableta y mochila de cuero negro haciendo los deberes.",
+      "tiempo": 2,
+      "imagen": "https://img.freepik.com/foto-gratis/estudiante-estilo-gafas-moda-leyendo-tarea-escalofriante-junto-fuente-ciudad-despues-lecciones-retrato-al-aire-libre-romantica-chica-rizada-tableta-mochila-cuero-negro-haciendo-deberes_197531-25224.jpg?w=996&t=st=1700691810~exp=1700692410~hmac=fef95b6f06fb411bab0cbcbedcd3b16c7d9ef61bf48ba4901e2811cf3df0aeee",
+      "responsable": "Responsable 2",
+      "estado": "COMPLETADA",
+      "id": 18
+    },
+    {
+      "titulo": "Asegurado equipo de trabajadores de oficina étnicos y rubios",
+      "descripcion": "Estudiante con estilo en gafas de moda leyendo tarea escalofriante junto a la fuente de la ciudad después de las lecciones. retrato al aire libre de la romántica chica rizada con tableta y mochila de cuero negro haciendo los deberes.",
+      "tiempo": 2,
+      "imagen": "https://img.freepik.com/foto-gratis/asegurado-equipo-trabajadores-oficina-etnicos-rubios_23-2148180683.jpg?t=st=1700691812~exp=1700692412~hmac=35131599b7ad0aa6451fad49833f07524901131bb08399befb5bb33199f1e31a",
       "responsable": "Responsable 4",
-      "estado": "PORTESTEAR"
+      "estado": "PORHACER",
+      "id": 19
     }
   ]
 }
